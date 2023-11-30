@@ -1,2 +1,2 @@
 # twofun
-One engineer's attempt to make MFA even easier
+One engineer's attempt to make Hardware MFA even easier.
